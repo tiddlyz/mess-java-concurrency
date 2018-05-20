@@ -1,0 +1,13 @@
+# General
+## Mac OS
+.DS_Store
+
+## IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+## Maven
+log/
+target/
