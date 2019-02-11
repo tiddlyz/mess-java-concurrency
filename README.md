@@ -1,1 +1,4 @@
-Play with Java concurrency
+Play with Java concurrency.
+
+It's fun.
+
